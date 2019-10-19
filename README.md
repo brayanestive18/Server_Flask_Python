@@ -8,7 +8,7 @@ appengine_config.py
 `source venv/Scripts/activate`
 
 ### Crear requirements.txt
-`pip freeze`
+`pip freeze > requirements.txt`
 
 ### Instalar librerias desde requirements.txt
 `pip install -r requirements.txt`
